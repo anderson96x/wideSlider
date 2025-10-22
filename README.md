@@ -2,6 +2,13 @@
 
 > **A simple Python script that transforms wide images into engaging 1080×1920 videos for Instagram Reels, TikTok, and YouTube Shorts — with smooth pan + fade effects.**
 
+>   The idea is to be able to show your whole picture on social media, if you work selling arts, for example.
+
+## 📷 Preview
+
+<img width="320" height="180" alt="Golden Rooftop Drift" src="https://github.com/user-attachments/assets/96bc5ef2-456e-4694-813a-b57cf203f296" />
+<img width="320" height="180" alt="Golden Rooftop Drift" src="https://github.com/user-attachments/assets/353fd149-a6d7-4019-8d0a-07e25ef66d23" />
+
 
 ## ✨ Features
 - **Automatic batch processing** — drop multiple images, get multiple videos
