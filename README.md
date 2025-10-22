@@ -26,8 +26,8 @@
 
 ### 1. Clone or download this repository
 ```bash
-git clone https://github.com/your-username/stillmotion.git
-cd stillmotion
+git clone https://github.com/anderson96x/wideSlider.git
+cd wideSlider
 ```
 
 ### 2. Install dependencies
@@ -38,7 +38,7 @@ pip install opencv-python numpy
 ### 3. Add your images
 Place your JPG or PNG files in the input/ folder:
 ```bash
-stillmotion/
+wideSlider/
 ├── input/
 │   ├── beach.jpg
 │   └── mountains.png
